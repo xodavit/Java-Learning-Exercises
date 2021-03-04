@@ -17,6 +17,7 @@
         <module>module2</module>
         <module>module3</module>
         <module>springhelloword</module>
+        <module>springbean</module>
     </modules>
 
 
