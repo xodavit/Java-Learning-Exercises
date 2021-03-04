@@ -1,7 +1,8 @@
 package logic;
 
+import lombok.Getter;
 import sweets.AnotherSweet;
-import sweets.Sweetnees;
+import sweets.Sweet;
 import sweets.candy.CandyChew;
 import sweets.candy.CandyChocoBar;
 import sweets.candy.CandyCoco;
@@ -13,14 +14,13 @@ import sweets.jelly.JellyRandom;
 import sweets.lollypop.LollypopInStick;
 import sweets.lollypop.LollypopXXL;
 
-
-
+@Getter
 public class SweetMenu {
 
-    private  Sweetnees [] sweetMenu;
+    private Sweet[] sweetMenu;
 
     public SweetMenu() {
-        sweetMenu = new Sweetnees[]{
+        sweetMenu = new Sweet[]{
                 new AnotherSweet(),
                 new CandyChew(),
                 new CandyChocoBar(),
@@ -33,9 +33,5 @@ public class SweetMenu {
                 new LollypopInStick(),
                 new LollypopXXL()
         };
-    }
-
-    public Sweetnees[] getSweetMenu() {
-        return sweetMenu;
     }
 }
