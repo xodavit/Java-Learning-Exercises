@@ -4,6 +4,7 @@ https://www.hackerrank.com/dashboard
 https://www.codewars.com/
 https://www.baeldung.com/
 https://spring.io/
+https://bool.dev/blog/category/tipichnye-voprosy-na-sobesedovanii
 
 https://edu.academiait.ru/practice-exams
 https://hyperskill.org

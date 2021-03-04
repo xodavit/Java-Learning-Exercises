@@ -5,14 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>paterns</artifactId>
-    <packaging>pom</packaging>
+    <artifactId>fourtesttask</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <modules>
-        <module>behavioral</module>
-        <module>structural</module>
-        <module>creational</module>
-    </modules>
 
 
 </project>
