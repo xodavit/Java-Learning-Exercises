@@ -12,6 +12,7 @@
         <module>todo</module>
         <module>complete</module>
         <module>spellerqa</module>
+        <module>game</module>
     </modules>
 
     <build>
