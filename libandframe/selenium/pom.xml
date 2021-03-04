@@ -15,6 +15,7 @@
         <module>seleniumAutoTestSberbank</module>
         <module>seleniumAutoTestDNS</module>
         <module>seleniumAutoTestRGS</module>
+        <module>seleniumAutoTestStart</module>
     </modules>
 
 
