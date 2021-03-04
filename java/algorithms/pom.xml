@@ -6,7 +6,26 @@
 
     <groupId>org.example</groupId>
     <artifactId>algorithms</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>search</module>
+        <module>sorting</module>
+    </modules>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.8.1</version>
+                <configuration>
+                    <target>1.11</target>
+                    <source>1.11</source>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
 
 
 </project>
