@@ -1,9 +1,5 @@
 package concurrency;
 
-/**
- * @author <a href="mailto:pavel13kalinin@gmail.com">Pavel Kalinin</a>
- *         21.10.2016
- */
 public class WaitNotify {
 
     private static final Object lock = new Object();

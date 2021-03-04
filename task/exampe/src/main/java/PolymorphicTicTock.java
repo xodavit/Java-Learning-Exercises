@@ -1,7 +1,4 @@
-/**
- * @author <a href="mailto:pavel13kalinin@gmail.com">Pavel Kalinin</a>
- *         21.10.2016
- */
+
 public class PolymorphicTicTock {
 
     public static void main(String[] args) {
