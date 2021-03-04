@@ -15,6 +15,7 @@
         <module>wordcounter</module>
         <module>textspellerQA</module>
         <module>sweetbox</module>
+        <module>airtravelprocessing</module>
     </modules>
 
 
