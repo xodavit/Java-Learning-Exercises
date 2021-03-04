@@ -17,6 +17,7 @@
         <module>sweetbox</module>
         <module>airtravelprocessing</module>
         <module>cliromaniancalculator</module>
+        <module>parsingDataFromJSON</module>
     </modules>
 
 
