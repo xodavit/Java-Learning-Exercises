@@ -16,6 +16,7 @@
         <module>seleniumAutoTestDNS</module>
         <module>seleniumAutoTestRGS</module>
         <module>seleniumAutoTestStart</module>
+        <module>seleniumJUnit</module>
     </modules>
 
 
