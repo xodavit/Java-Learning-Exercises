@@ -19,6 +19,8 @@
         <module>springhelloword</module>
         <module>springbean</module>
         <module>springTypesOfWiring</module>
+        <module>task_JDBC</module>
+
     </modules>
 
 
